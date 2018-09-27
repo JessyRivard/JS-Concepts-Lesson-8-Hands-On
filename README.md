@@ -1,2 +1,1 @@
-# JS-Concepts-Lesson-8-Hands-On
-Lesson 8 Hands on project for FSWO101-3
+For your Lesson 8 Practice Hands-On, you will be practicing your new jQuery skills
